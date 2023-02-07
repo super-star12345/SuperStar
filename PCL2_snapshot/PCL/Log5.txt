@@ -1,0 +1,111 @@
+[10:11:12.706] [Start] 程序版本：Snapshot 2.4.7（278）
+[10:11:12.707] [Start] 识别码：1222-7225-3EAE-89EF
+[10:11:12.707] [Start] 程序路径：D:\Minecraft\launcher\PCL2_snapshot\Plain Craft Launcher 2.exe
+[10:11:12.710] [Start] 第一阶段加载用时：47 ms
+[10:11:12.779] [UI] 刷新主题：7
+[10:11:12.807] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[10:11:12.807] [Start] 第二阶段加载用时：93 ms
+[10:11:12.812] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[10:11:12.945] [System] 窗口已置顶，位置：(544, 210), 832 x 613
+[10:11:12.948] [Start] 第三阶段加载用时：31 ms
+[10:11:12.948] [Animation] 动画线程开始
+[10:11:12.949] [Start] 加载 DLL：Json
+[10:11:12.949] [System] 获取资源：Json
+[10:11:12.955] [Launch] Minecraft 文件夹：D:\Minecraft\launcher\PCL2_snapshot\.minecraft\
+[10:11:12.986] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[10:11:12.991] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[10:11:13.004] [Java] 缓存中有 6 个可用的 Java
+[10:11:13.007] [Skin] 载入头像成功：Loader Skin Ms
+[10:11:13.011] [Minecraft] 启动按钮：Minecraft 版本：D:\Minecraft\launcher\PCL2_snapshot\.minecraft\versions\23w04a\
+[10:11:13.014] [Loader] 加载器 登录 状态改变：Loading
+[10:11:13.017] [Launch] 登录加载已开始
+[10:11:13.018] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[10:11:13.019] [Launch] 登录方式：微软正版（MenacingDart613）
+[10:11:13.020] [Launch] 开始微软登录步骤 2（刷新登录）
+[10:11:13.023] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[10:11:13.216] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[10:11:13.217] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[10:11:13.217] [Server] 正在连接到 PCL2 服务器
+[10:11:13.220] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[10:11:13.224] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1674958273-5e85a44b-0-a7c1037a73bc097fddd9b9710909b3ba，最大超时 10000
+[10:11:13.300] [Server] 服务器公告：91|278|272|4，无需更新
+[10:11:13.304] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[10:11:13.665] [System] DPI：96，系统版本：10.0.22621.0，PCL 位置：D:\Minecraft\launcher\PCL2_snapshot\Plain Craft Launcher 2.exe
+[10:11:13.742] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[10:11:14.054] [Launch] 开始微软登录步骤 3
+[10:11:14.055] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[10:11:14.259] [Control] 按下单选按钮：联机
+[10:11:14.267] [Control] 普通弹窗：联机功能已暂时关闭
+由于联机提供商要求新联机强制付费，且高度商业化，PCL 将暂时关闭联机功能，不再使用该联机模块。
+PCL、HMCL、BakaXL 将合作开发新的跨启动器联机功能，在开发结束后将同步开放，请各位多多理解。
+[10:11:14.320] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[10:11:14.835] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[10:11:15.586] [Launch] 开始微软登录步骤 4
+[10:11:15.587] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[10:11:15.837] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[10:11:16.307] [Control] 按下按钮：确定
+[10:11:16.308] [Control] 普通弹框返回：2
+[10:11:16.339] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[10:11:17.104] [Launch] 开始微软登录步骤 5
+[10:11:17.104] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[10:11:17.126] [Control] 按下单选按钮：设置
+[10:11:17.198] [Control] 切换主要页面：Setup, -1
+[10:11:17.314] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[10:11:17.316] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[10:11:17.367] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[10:11:17.882] [Launch] 开始微软登录步骤 6
+[10:11:17.882] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[10:11:18.147] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[10:11:18.659] [Launch] 微软登录完成
+[10:11:18.659] [UI] 解锁隐藏主题：10
+[10:11:18.659] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[10:11:18.673] [Launch] 登录加载已结束
+[10:11:18.673] [Loader] 加载器 登录 状态改变：Finished
+[10:11:18.846] [Control] 按下单选按钮：更多
+[10:11:18.858] [Loader] 加载器 Help Page 状态改变：Loading
+[10:11:18.859] [Control] 切换主要页面：Other, -1
+[10:11:18.862] [Help] 正在检查内置帮助文件
+[10:11:18.870] [System] 获取资源：Help
+[10:11:18.901] [Help] 已解压内置帮助文件：False
+[10:11:18.901] [Help] 已扫描 PCL 文件夹下的帮助文件，目前总计 0 条
+[10:11:18.902] [Help] 已扫描缓存文件夹下的帮助文件，目前总计 33 条
+[10:11:18.952] [Loader] 加载器 Help Page 状态改变：Finished
+[10:11:20.121] [Control] 按下单选按钮：设置
+[10:11:20.121] [Control] 切换主要页面：Setup, -1
+[10:11:24.888] [Control] 按下单选按钮：下载
+[10:11:24.918] [Loader] 加载器 DlClientList Main 状态改变：Loading
+[10:11:24.919] [Control] 切换主要页面：Download, -1
+[10:11:24.922] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[10:11:24.923] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[10:11:25.052] [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
+[10:11:25.053] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
+[10:11:25.054] [Loader] 加载器 DlFabricList Main 状态改变：Loading
+[10:11:25.055] [Loader] 加载器 DlOptiFineList Official 状态改变：Loading
+[10:11:25.056] [Loader] 加载器 DlLiteLoaderList Official 状态改变：Loading
+[10:11:25.057] [Loader] 加载器 DlFabricList Official 状态改变：Loading
+[10:11:25.057] [Net] 获取网络结果：http://dl.liteloader.com/versions/versions.json，最大超时 10000
+[10:11:25.057] [Net] 获取网络结果：https://meta.fabricmc.net/v2/versions，最大超时 10000
+[10:11:25.059] [Net] 获取客户端网络结果：https://optifine.net/downloads，最大超时 10000
+[10:11:25.061] [Download] 刷新 Forge 推荐版本缓存开始
+[10:11:25.064] [Loader] 加载器 源码获取 523# 状态改变：Loading
+[10:11:25.081] [Download] -1798645995_522 533#：开始，起始点 0，https://bmclapi2.bangbang93.com/forge/promos
+[10:11:25.354] [Download] -1798645995_522：文件大小 44856 B（43.8 K）
+[10:11:25.373] [Download] -1798645995_522：已完成，剩余文件 0
+[10:11:25.374] [Loader] 加载器 源码获取 523# 状态改变：Finished
+[10:11:25.388] [Download] 刷新 Forge 推荐版本缓存成功
+[10:11:25.432] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[10:11:25.510] [Loader] 加载器 DlClientList Main 状态改变：Finished
+[10:11:26.255] [Loader] 加载器 DlLiteLoaderList Official 状态改变：Finished
+[10:11:26.261] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Finished
+[10:11:26.626] [Loader] 加载器 DlOptiFineList Official 状态改变：Finished
+[10:11:26.633] [Loader] 加载器 DlOptiFineList Main 状态改变：Finished
+[10:11:27.150] [Control] 按下单选按钮：更多
+[10:11:27.151] [Control] 切换主要页面：Other, -1
+[10:11:27.691] [Loader] 加载器 DlFabricList Official 状态改变：Finished
+[10:11:27.706] [Loader] 加载器 DlFabricList Main 状态改变：Finished
+[10:11:27.940] [Control] 按下单选列表项：百宝箱
+[10:11:36.279] [Control] 按下图标按钮：BtnTitleMin
+[10:11:58.572] [Report] FPS 0, 动画 6, 下载中 0（0 B/s）
+[10:11:59.263] [Control] 按下图标按钮：BtnTitleClose
+[10:11:59.265] [System] 收到关闭指令
+[10:11:59.507] [System] 程序已退出，返回值：Success

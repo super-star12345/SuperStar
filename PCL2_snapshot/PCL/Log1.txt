@@ -1,0 +1,361 @@
+[09:24:16.373] [Start] 程序版本：Snapshot 2.4.8（280）
+[09:24:16.374] [Start] 识别码：1222-7225-3EAE-89EF
+[09:24:16.374] [Start] 程序路径：D:\Minecraft\launcher\PCL2_snapshot\Plain Craft Launcher 2.exe
+[09:24:16.377] [Start] 第一阶段加载用时：46 ms
+[09:24:16.444] [Start] 版本号从 278 升高到 280
+[09:24:16.445] [Start] 最高版本号从 278 升高到 280
+[09:24:16.466] [UI] 刷新主题：7
+[09:24:16.494] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[09:24:16.494] [Start] 第二阶段加载用时：110 ms
+[09:24:16.500] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[09:24:16.636] [System] 窗口已置顶，位置：(544, 210), 832 x 613
+[09:24:16.639] [Start] 第三阶段加载用时：31 ms
+[09:24:16.639] [Animation] 动画线程开始
+[09:24:16.640] [Start] 加载 DLL：Json
+[09:24:16.640] [System] 获取资源：Json
+[09:24:16.646] [Launch] Minecraft 文件夹：D:\Minecraft\launcher\PCL2_snapshot\.minecraft\
+[09:24:16.676] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[09:24:16.692] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[09:24:16.704] [Skin] 载入头像成功：Loader Skin Ms
+[09:24:16.707] [Control] 普通弹窗：PCL2 已更新至 Snapshot 2.4.8
+· 其他 1 项小调整与修改，修复了 10 个 Bug，详见完整更新日志
+[09:24:16.742] [Java] 缓存中有 6 个可用的 Java
+[09:24:16.749] [Minecraft] 启动按钮：Minecraft 版本：D:\Minecraft\launcher\PCL2_snapshot\.minecraft\versions\23w04a\
+[09:24:16.753] [Loader] 加载器 登录 状态改变：Loading
+[09:24:16.757] [Launch] 登录加载已开始
+[09:24:16.758] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[09:24:16.759] [Launch] 登录方式：微软正版（MenacingDart613）
+[09:24:16.760] [Launch] 开始微软登录步骤 2（刷新登录）
+[09:24:16.762] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[09:24:16.955] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[09:24:16.956] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[09:24:16.956] [Server] 正在连接到 PCL2 服务器
+[09:24:16.959] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[09:24:16.964] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1675733057-0a078e75-0-fb24edaf86b453a8853946c879e7b1ff，最大超时 10000
+[09:24:17.005] [Server] 服务器公告：93|280|279|4，无需更新
+[09:24:17.009] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[09:24:17.357] [System] DPI：96，系统版本：10.0.22621.0，PCL 位置：D:\Minecraft\launcher\PCL2_snapshot\Plain Craft Launcher 2.exe
+[09:24:17.432] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[09:24:17.856] [Launch] 开始微软登录步骤 3
+[09:24:17.857] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[09:24:18.122] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[09:24:18.612] [Control] 按下按钮：确定
+[09:24:18.613] [Control] 普通弹框返回：1
+[09:24:18.634] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[09:24:19.399] [Launch] 开始微软登录步骤 4
+[09:24:19.399] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[09:24:19.663] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[09:24:19.892] [Control] 按下单选按钮：更多
+[09:24:19.923] [Loader] 加载器 Help Page 状态改变：Loading
+[09:24:19.927] [Help] 正在检查内置帮助文件
+[09:24:19.929] [Control] 切换主要页面：Other, -1
+[09:24:19.939] [System] 获取资源：Help
+[09:24:19.976] [Help] 已解压内置帮助文件：False
+[09:24:19.976] [Help] 已扫描 PCL 文件夹下的帮助文件，目前总计 0 条
+[09:24:19.977] [Help] 已扫描缓存文件夹下的帮助文件，目前总计 33 条
+[09:24:20.031] [Loader] 加载器 Help Page 状态改变：Finished
+[09:24:20.174] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[09:24:20.926] [Launch] 开始微软登录步骤 5
+[09:24:20.926] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[09:24:21.178] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[09:24:21.542] [Control] 按下单选列表项：百宝箱
+[09:24:21.679] [Launch] 开始微软登录步骤 6
+[09:24:21.679] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[09:24:21.931] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[09:24:22.437] [Launch] 微软登录完成
+[09:24:22.438] [UI] 解锁隐藏主题：10
+[09:24:22.438] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[09:24:22.442] [Launch] 登录加载已结束
+[09:24:22.442] [Loader] 加载器 登录 状态改变：Finished
+[09:24:24.180] [Control] 按下按钮：开始下载
+[09:24:24.181] [Download] 自定义下载文件名：cctrial.EXE
+[09:24:24.181] [Download] 自定义下载文件目标：D:\Minecraft\launcher\PCL2_snapshot\PCL\MyDownload\
+[09:24:24.182] [Loader] 加载器 自定义下载 (263)  状态改变：Loading
+[09:24:24.185] [Loader] 加载器 自定义下载文件：cctrial.EXE  状态改变：Loading
+[09:24:24.202] [Download] cctrial.EXE 277#：开始，起始点 0，http://www.closecombatseries.net/downloads/CC1/Game%20and%20Demo/cctrial.EXE
+[09:24:25.487] [Download] cctrial.EXE：文件大小 5688464 B（5.42 M）
+[09:24:26.030] [Control] 按下附加按钮：下载管理
+[09:24:26.034] [Control] 切换主要页面：DownloadManager, 0
+[09:24:33.088] [Download] cctrial.EXE 325#：超时（6s）
+[09:24:33.134] [Download] cctrial.EXE 286#：超时（6s）
+[09:24:33.967] [Download] cctrial.EXE 309#：超时（6s）
+[09:24:34.320] [Download] cctrial.EXE 313#：超时（6s）
+[09:24:35.170] [Download] cctrial.EXE 283#：超时（6s）
+[09:24:35.263] [Download] cctrial.EXE 312#：超时（6s）
+[09:24:36.345] [Download] cctrial.EXE 333#：超时（6s）
+[09:24:37.212] [Download] cctrial.EXE 315#：超时（6s）
+[09:24:37.306] [Download] cctrial.EXE 287#：超时（6s）
+[09:24:37.428] [Download] cctrial.EXE 318#：超时（6s）
+[09:24:37.814] [Download] cctrial.EXE 327#：超时（6s）
+[09:24:37.849] [Download] cctrial.EXE 316#：出错，由于速度过慢断开链接，下载 1440 B，消耗 5532 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:37.876] [Download] cctrial.EXE 284#：超时（6s）
+[09:24:38.417] [Download] cctrial.EXE 317#：超时（6s）
+[09:24:38.525] [Download] cctrial.EXE 326#：超时（6s）
+[09:24:39.114] [Download] cctrial.EXE 277#：出错，由于速度过慢断开链接，下载 2880 B，消耗 2985 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:39.334] [Download] cctrial.EXE 334#：超时（6s）
+[09:24:39.766] [Download] cctrial.EXE 337#：超时（6s）
+[09:24:39.936] [Download] cctrial.EXE 335#：超时（6s）
+[09:24:40.203] [Download] cctrial.EXE 314#：出错，由于速度过慢断开链接，下载 2880 B，消耗 5875 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:40.433] [Download] cctrial.EXE 338#：超时（6s）
+[09:24:40.756] [Download] cctrial.EXE 339#：超时（6s）
+[09:24:41.375] [Download] cctrial.EXE 330#：超时（6s）
+[09:24:41.496] [Download] cctrial.EXE 345#：出错，由于速度过慢断开链接，下载 1440 B，消耗 1641 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:41.813] [Download] cctrial.EXE 319#：出错，由于速度过慢断开链接，下载 1440 B，消耗 5937 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:42.252] [Download] cctrial.EXE 331#：超时（6s）
+[09:24:42.546] [Download] cctrial.EXE 324#：超时（6s）
+[09:24:42.979] [Download] cctrial.EXE 321#：超时（6s）
+[09:24:43.041] [Download] cctrial.EXE 354#：出错，由于速度过慢断开链接，下载 1440 B，消耗 1469 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:43.428] [Download] cctrial.EXE 322#：出错，由于速度过慢断开链接，下载 1440 B，消耗 4375 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:43.645] [Download] cctrial.EXE 329#：出错，由于速度过慢断开链接，下载 1440 B，消耗 4437 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:44.158] [Report] FPS 0, 动画 0, 下载中 1（69.6 K/s）
+[09:24:44.796] [Download] cctrial.EXE 347#：超时（6s）
+[09:24:44.951] [Download] cctrial.EXE 336#：出错，由于速度过慢断开链接，下载 1440 B，消耗 6016 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:45.105] [Download] cctrial.EXE 344#：超时（6s）
+[09:24:45.137] [Download] cctrial.EXE 320#：超时（6s）
+[09:24:45.834] [Download] cctrial.EXE 342#：超时（6s）
+[09:24:46.235] [Download] cctrial.EXE 341#：出错，由于速度过慢断开链接，下载 8640 B，消耗 9266 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:46.266] [Download] cctrial.EXE 340#：出错，由于速度过慢断开链接，下载 1440 B，消耗 4421 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:46.392] [Download] cctrial.EXE 332#：超时（6s）
+[09:24:46.423] [Download] cctrial.EXE 343#：出错，由于速度过慢断开链接，下载 1440 B，消耗 5312 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:46.996] [Download] cctrial.EXE 302#：出错，由于速度过慢断开链接，下载 1440 B，消耗 3500 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:47.165] [Download] cctrial.EXE 348#：超时（6s）
+[09:24:47.603] [Download] cctrial.EXE 361#：超时（6s）
+[09:24:47.864] [Download] cctrial.EXE 362#：超时（6s）
+[09:24:48.687] [Download] cctrial.EXE 353#：超时（6s）
+[09:24:49.373] [Download] cctrial.EXE 323#：出错，由于速度过慢断开链接，下载 1440 B，消耗 1641 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:49.525] [Download] cctrial.EXE 349#：出错，由于速度过慢断开链接，下载 5760 B，消耗 6000 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:49.945] [Download] cctrial.EXE 355#：超时（6s）
+[09:24:49.981] [Download] cctrial.EXE 352#：出错，由于速度过慢断开链接，下载 1440 B，消耗 5750 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:50.270] [Download] cctrial.EXE 360#：超时（6s）
+[09:24:51.572] [Download] cctrial.EXE 363#：超时（6s）
+[09:24:51.585] [Download] cctrial.EXE 350#：超时（6s）
+[09:24:51.617] [Download] cctrial.EXE 328#：出错，由于速度过慢断开链接，下载 2880 B，消耗 6016 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:52.810] [Download] cctrial.EXE 358#：出错，由于速度过慢断开链接，下载 4320 B，消耗 10172 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:53.921] [Download] cctrial.EXE 378#：超时（6s）
+[09:24:55.067] [Download] cctrial.EXE 357#：出错，由于速度过慢断开链接，下载 1440 B，消耗 9938 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:55.950] [Download] cctrial.EXE 359#：超时（12s）
+[09:24:56.278] [Download] cctrial.EXE 368#：出错，由于速度过慢断开链接，下载 1440 B，消耗 7469 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:56.397] [Download] cctrial.EXE 365#：出错，由于速度过慢断开链接，下载 10080 B，消耗 10437 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:56.397] [Download] cctrial.EXE 374#：超时（6s）
+[09:24:56.722] [Download] cctrial.EXE 366#：出错，由于速度过慢断开链接，下载 1440 B，消耗 8453 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:56.831] [Download] cctrial.EXE 380#：超时（6s）
+[09:24:57.563] [Download] cctrial.EXE 381#：超时（6s）
+[09:24:57.965] [Download] cctrial.EXE 373#：出错，由于速度过慢断开链接，下载 4320 B，消耗 8250 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:24:58.867] [Download] cctrial.EXE 384#：超时（6s）
+[09:24:59.100] [Download] cctrial.EXE 375#：超时（6s）
+[09:24:59.270] [Download] cctrial.EXE 382#：超时（6s）
+[09:24:59.825] [Download] cctrial.EXE 386#：超时（6s）
+[09:25:00.547] [Download] cctrial.EXE 367#：出错，由于速度过慢断开链接，下载 1440 B，消耗 8000 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:00.552] [Download] cctrial.EXE 356#：出错，由于速度过慢断开链接，下载 2880 B，消耗 9640 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:00.722] [Download] cctrial.EXE 369#：超时（12s）
+[09:25:00.825] [Download] cctrial.EXE 376#：出错，由于速度过慢断开链接，下载 7200 B，消耗 8703 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:01.003] [Download] cctrial.EXE 351#：出错，由于速度过慢断开链接，下载 10080 B，消耗 10921 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:01.344] [Download] cctrial.EXE 371#：出错，由于速度过慢断开链接，下载 1440 B，消耗 1500 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:01.497] [Download] cctrial.EXE 370#：超时（12s）
+[09:25:02.487] [Download] cctrial.EXE 396#：超时（6s）
+[09:25:03.839] [Download] cctrial.EXE 397#：超时（6s）
+[09:25:04.244] [Download] cctrial.EXE 379#：出错，由于速度过慢断开链接，下载 1440 B，消耗 8250 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:04.430] [Download] cctrial.EXE 372#：超时（12s）
+[09:25:04.759] [Download] cctrial.EXE 392#：出错，由于速度过慢断开链接，下载 1440 B，消耗 4062 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:05.287] [Download] cctrial.EXE 364#：出错，由于速度过慢断开链接，下载 1440 B，消耗 2125 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:05.847] [Download] cctrial.EXE 405#：超时（6s）
+[09:25:06.716] [Download] cctrial.EXE 390#：出错，由于速度过慢断开链接，下载 2880 B，消耗 8157 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:08.204] [Download] cctrial.EXE 383#：超时（6s）
+[09:25:08.963] [Download] cctrial.EXE 408#：出错，由于速度过慢断开链接，下载 1440 B，消耗 2110 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:09.679] [Download] cctrial.EXE 394#：超时（12s）
+[09:25:09.709] [Download] cctrial.EXE 400#：出错，由于速度过慢断开链接，下载 1440 B，消耗 1829 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:11.482] [Download] cctrial.EXE 407#：出错，由于速度过慢断开链接，下载 8640 B，消耗 9437 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:11.698] [Download] cctrial.EXE 414#：超时（6s）
+[09:25:11.977] [Download] cctrial.EXE 419#：超时（6s）
+[09:25:12.242] [Download] cctrial.EXE 411#：超时（6s）
+[09:25:13.078] [Download] cctrial.EXE 388#：出错，由于速度过慢断开链接，下载 1440 B，消耗 6656 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:13.561] [Download] cctrial.EXE 417#：超时（6s）
+[09:25:13.576] [Download] cctrial.EXE 404#：出错，由于速度过慢断开链接，下载 1440 B，消耗 5484 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:13.778] [Download] cctrial.EXE 418#：超时（6s）
+[09:25:14.944] [Download] cctrial.EXE 409#：出错，由于速度过慢断开链接，下载 1440 B，消耗 7469 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:14.960] [Download] cctrial.EXE 413#：超时（6s）
+[09:25:14.963] [Download] cctrial.EXE 346#：出错，由于速度过慢断开链接，下载 1440 B，消耗 2782 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:15.006] [Download] cctrial.EXE 401#：出错，由于速度过慢断开链接，下载 4320 B，消耗 7765 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:15.550] [Download] cctrial.EXE 416#：超时（6s）
+[09:25:16.109] [Download] cctrial.EXE 403#：超时（12s）
+[09:25:17.682] [Download] cctrial.EXE 399#：出错，由于速度过慢断开链接，下载 2880 B，消耗 9578 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:17.713] [Download] cctrial.EXE 415#：超时（6s）
+[09:25:17.945] [Download] cctrial.EXE 391#：超时（12s）
+[09:25:19.199] [Download] cctrial.EXE 426#：超时（6s）
+[09:25:19.495] [Download] cctrial.EXE 425#：出错，由于速度过慢断开链接，下载 1815 B，消耗 2594 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:20.072] [Download] cctrial.EXE 393#：超时（12s）
+[09:25:21.457] [Download] cctrial.EXE 438#：出错，由于速度过慢断开链接，下载 1440 B，消耗 1454 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:21.582] [Download] cctrial.EXE 406#：超时（12s）
+[09:25:22.421] [Download] cctrial.EXE 424#：出错，由于速度过慢断开链接，下载 1440 B，消耗 8563 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:23.738] [Download] cctrial.EXE 423#：出错，由于速度过慢断开链接，下载 2880 B，消耗 5953 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:25.298] [Download] cctrial.EXE 427#：出错，由于速度过慢断开链接，下载 4320 B，消耗 8688 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:26.152] [Download] cctrial.EXE 429#：出错，由于速度过慢断开链接，下载 1310 B，消耗 9500 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:26.867] [Download] cctrial.EXE 437#：出错，由于速度过慢断开链接，下载 3463 B，消耗 9797 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:27.129] [Download] cctrial.EXE 435#：超时（12s）
+[09:25:27.312] [Download] cctrial.EXE 433#：出错，由于速度过慢断开链接，下载 5760 B，消耗 8718 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:27.902] [Download] cctrial.EXE 442#：出错，由于速度过慢断开链接，下载 1440 B，消耗 1562 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:28.399] [Download] cctrial.EXE 434#：出错，由于速度过慢断开链接，下载 1440 B，消耗 6437 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:32.730] [Download] cctrial.EXE 445#：出错，由于速度过慢断开链接，下载 5503 B，消耗 9625 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:33.511] [Download] cctrial.EXE 439#：出错，由于速度过慢断开链接，下载 5760 B，消耗 6953 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:34.007] [Download] cctrial.EXE 443#：出错，由于速度过慢断开链接，下载 1440 B，消耗 8343 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:34.936] [Download] cctrial.EXE 444#：出错，由于速度过慢断开链接，下载 1440 B，消耗 3531 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:35.402] [Download] cctrial.EXE 451#：超时（6s）
+[09:25:36.382] [Download] cctrial.EXE 441#：出错，由于速度过慢断开链接，下载 1440 B，消耗 3250 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:37.190] [Download] cctrial.EXE 449#：超时（6s）
+[09:25:37.890] [Download] cctrial.EXE 448#：出错，由于速度过慢断开链接，下载 210 B，消耗 7875 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:25:38.013] [Report] FPS 0, 动画 0, 下载中 1（28.1 K/s）
+[09:25:39.495] [Download] cctrial.EXE 447#：超时（6s）
+[09:25:44.956] [Download] cctrial.EXE 457#：超时（6s）
+[09:25:50.395] [Download] cctrial.EXE 458#：超时（6s）
+[09:25:53.099] [Report] FPS 0, 动画 0, 下载中 1（0 B/s）
+[09:25:56.431] [Download] cctrial.EXE 456#：出错，由于速度过慢断开链接，下载 3075 B，消耗 9281 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:26:01.837] [Download] cctrial.EXE 459#：超时（12s）
+[09:26:06.561] [Download] cctrial.EXE 461#：出错，由于速度过慢断开链接，下载 158 B，消耗 1109 ms。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.TimeoutException
+[09:26:06.634] [Download] cctrial.EXE：已完成，剩余文件 0
+[09:26:06.635] [Loader] 加载器 自定义下载文件：cctrial.EXE  状态改变：Finished
+[09:26:06.640] [Loader] 加载器 自定义下载 (263)  状态改变：Finished
+[09:26:06.700] [UI] 弹出提示：自定义下载 (263) 完成！
+[09:26:06.903] [Control] 切换主要页面：Other, -1
+[09:26:07.247] [Report] FPS 0, 动画 34, 下载中 0（150 B/s）
+[09:28:24.498] [Control] 按下按钮：清理游戏垃圾
+[09:28:24.521] [Control] 普通弹窗：清理确认
+即将清理游戏日志、错误报告、缓存等垃圾文件。
+虽然应该没人往这些地方放重要文件，但还是问一下，是否确认继续？
+[09:28:42.277] [Control] 按下按钮：取消
+[09:28:42.278] [Control] 普通弹框返回：2
+[09:29:51.566] [Control] 普通弹窗：反馈提示
+是否要打开反馈列表网页？
+如果无法打开该网页，请尝试使用加速器或 VPN。
+[09:29:53.159] [Control] 按下按钮：取消
+[09:29:53.160] [Control] 普通弹框返回：3
+[09:29:53.160] [Control] 按下单击列表项：反馈
+[09:29:54.139] [Control] 普通弹窗：提醒
+是否要打开新功能投票网页？
+如果无法打开该网页，请尝试使用加速器或 VPN。
+[09:29:55.184] [Control] 按下按钮：打开
+[09:29:55.184] [Control] 普通弹框返回：1
+[09:29:55.184] [System] 正在打开网页：https://github.com/Hex-Dragon/PCL2/discussions/categories/%E5%8A%9F%E8%83%BD%E6%8A%95%E7%A5%A8?discussions_q=category%3A%E5%8A%9F%E8%83%BD%E6%8A%95%E7%A5%A8+sort%3Adate_created
+[09:29:55.233] [Control] 按下单击列表项：新功能投票
+[09:56:04.065] [Control] 按下单选按钮：启动
+[09:56:04.065] [Control] 切换主要页面：Launch, -1
+[09:56:05.648] [Control] 按下图标按钮：BtnTitleClose
+[09:56:05.652] [System] 收到关闭指令
+[09:56:05.881] [System] 程序已退出，返回值：Success

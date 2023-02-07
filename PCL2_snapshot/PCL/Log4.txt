@@ -1,0 +1,75 @@
+[09:03:02.995] [Start] 程序版本：Snapshot 2.4.7（278）
+[09:03:02.996] [Start] 识别码：1222-7225-3EAE-89EF
+[09:03:02.996] [Start] 程序路径：D:\Minecraft\launcher\PCL2_snapshot\Plain Craft Launcher 2.exe
+[09:03:02.999] [Start] 第一阶段加载用时：63 ms
+[09:03:03.107] [UI] 刷新主题：7
+[09:03:03.139] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[09:03:03.139] [Start] 第二阶段加载用时：125 ms
+[09:03:03.147] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[09:03:03.304] [System] 窗口已置顶，位置：(544, 210), 832 x 613
+[09:03:03.308] [Start] 第三阶段加载用时：31 ms
+[09:03:03.308] [Animation] 动画线程开始
+[09:03:03.309] [Start] 加载 DLL：Json
+[09:03:03.309] [System] 获取资源：Json
+[09:03:03.315] [Launch] Minecraft 文件夹：D:\Minecraft\launcher\PCL2_snapshot\.minecraft\
+[09:03:03.352] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[09:03:03.366] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[09:03:03.375] [Skin] 载入头像成功：Loader Skin Ms
+[09:03:03.419] [Java] 缓存中有 6 个可用的 Java
+[09:03:03.430] [Minecraft] 启动按钮：Minecraft 版本：D:\Minecraft\launcher\PCL2_snapshot\.minecraft\versions\23w04a\
+[09:03:03.434] [Loader] 加载器 登录 状态改变：Loading
+[09:03:03.438] [Launch] 登录加载已开始
+[09:03:03.438] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[09:03:03.440] [Launch] 登录方式：微软正版（MenacingDart613）
+[09:03:03.440] [Launch] 开始微软登录步骤 2（刷新登录）
+[09:03:03.443] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[09:03:03.622] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[09:03:03.623] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[09:03:03.623] [Server] 正在连接到 PCL2 服务器
+[09:03:03.625] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[09:03:03.629] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1675645384-2d8dadd9-0-24b7bf2d9411b318b75e722277acb8cc，最大超时 10000
+[09:03:03.717] [Server] 服务器公告：92|278|276|4，本地公告编号：91，需更新
+[09:03:03.721] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.json?sign=1675645384-36fa2ee6-0-54161c2f95c4c36ea522fab94550dca3，最大超时 10000
+[09:03:03.779] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[09:03:04.024] [System] DPI：96，系统版本：10.0.22621.0，PCL 位置：D:\Minecraft\launcher\PCL2_snapshot\Plain Craft Launcher 2.exe
+[09:03:04.158] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[09:03:04.508] [Launch] 开始微软登录步骤 3
+[09:03:04.508] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[09:03:04.772] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[09:03:05.286] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[09:03:06.051] [Launch] 开始微软登录步骤 4
+[09:03:06.052] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[09:03:06.315] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[09:03:06.824] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[09:03:07.271] [Control] 按下单选按钮：设置
+[09:03:07.352] [Control] 切换主要页面：Setup, -1
+[09:03:07.465] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[09:03:07.472] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[09:03:07.584] [Launch] 开始微软登录步骤 5
+[09:03:07.584] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[09:03:07.846] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[09:03:08.356] [Launch] 开始微软登录步骤 6
+[09:03:08.357] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[09:03:08.619] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[09:03:09.129] [Launch] 微软登录完成
+[09:03:09.131] [UI] 解锁隐藏主题：10
+[09:03:09.131] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[09:03:09.144] [Launch] 登录加载已结束
+[09:03:09.144] [Loader] 加载器 登录 状态改变：Finished
+[09:03:09.183] [Control] 按下单选按钮：更多
+[09:03:09.195] [Loader] 加载器 Help Page 状态改变：Loading
+[09:03:09.196] [Control] 切换主要页面：Other, -1
+[09:03:09.198] [Help] 正在检查内置帮助文件
+[09:03:09.206] [System] 获取资源：Help
+[09:03:09.241] [Help] 已解压内置帮助文件：False
+[09:03:09.241] [Help] 已扫描 PCL 文件夹下的帮助文件，目前总计 0 条
+[09:03:09.241] [Help] 已扫描缓存文件夹下的帮助文件，目前总计 33 条
+[09:03:09.299] [Loader] 加载器 Help Page 状态改变：Finished
+[09:03:10.381] [Control] 普通弹窗：反馈提示
+是否要打开反馈列表网页？
+如果无法打开该网页，请尝试使用加速器或 VPN。
+[09:03:11.815] [Control] 按下按钮：取消
+[09:03:11.817] [Control] 普通弹框返回：3
+[09:03:11.817] [Control] 按下单击列表项：反馈
+[09:46:40.299] [System] 收到关闭指令
+[09:46:40.542] [System] 程序已退出，返回值：Success

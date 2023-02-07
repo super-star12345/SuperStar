@@ -1,0 +1,246 @@
+[09:06:16.142] [Start] 程序版本：Snapshot 2.4.7（278）
+[09:06:16.143] [Start] 识别码：1222-7225-3EAE-89EF
+[09:06:16.143] [Start] 程序路径：D:\Minecraft\launcher\PCL2_snapshot\Plain Craft Launcher 2.exe
+[09:06:16.148] [Start] 第一阶段加载用时：125 ms
+[09:06:16.259] [UI] 刷新主题：7
+[09:06:16.293] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[09:06:16.293] [Start] 第二阶段加载用时：125 ms
+[09:06:16.354] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[09:06:16.459] [System] 窗口已置顶，位置：(544, 210), 832 x 613
+[09:06:16.463] [Start] 第三阶段加载用时：47 ms
+[09:06:16.463] [Animation] 动画线程开始
+[09:06:16.464] [Start] 加载 DLL：Json
+[09:06:16.464] [System] 获取资源：Json
+[09:06:16.471] [Launch] Minecraft 文件夹：D:\Minecraft\launcher\PCL2_snapshot\.minecraft\
+[09:06:16.509] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[09:06:16.519] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[09:06:16.533] [Skin] 载入头像成功：Loader Skin Ms
+[09:06:16.585] [Java] 缓存中有 6 个可用的 Java
+[09:06:16.602] [Minecraft] 启动按钮：Minecraft 版本：D:\Minecraft\launcher\PCL2_snapshot\.minecraft\versions\23w04a\
+[09:06:16.606] [Loader] 加载器 登录 状态改变：Loading
+[09:06:16.610] [Launch] 登录加载已开始
+[09:06:16.611] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[09:06:16.612] [Launch] 登录方式：微软正版（MenacingDart613）
+[09:06:16.612] [Launch] 开始微软登录步骤 2（刷新登录）
+[09:06:16.617] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[09:06:16.800] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[09:06:16.800] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[09:06:16.801] [Server] 正在连接到 PCL2 服务器
+[09:06:16.804] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[09:06:16.808] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1675731977-3fdb9635-0-d92d9274c873086d780b682deaf49026，最大超时 10000
+[09:06:16.907] [Server] 服务器公告：93|280|279|4，本地公告编号：92，需更新
+[09:06:16.911] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.json?sign=1675731977-3cb6cea0-0-474de19dfc7d108e881ca6f4704a14a1，最大超时 10000
+[09:06:16.945] [Server] 重要等级 0，更新公告 True
+[09:06:16.951] [Loader] 加载器 源码获取 92# 状态改变：Loading
+[09:06:16.971] [Download] -1662519711_91 95#：开始，起始点 0，https://pcl2-server-1253424809.file.myqcloud.com/Key2.txt?sign=1675731977-383be058-0-a42282a88f9727ef8bea0fbbe118091e
+[09:06:17.088] [Download] -1662519711_91：文件大小 6 B（6 B）
+[09:06:17.094] [Download] -1662519711_91：已完成，剩余文件 0
+[09:06:17.094] [Loader] 加载器 源码获取 92# 状态改变：Finished
+[09:06:17.108] [System] 更新已开始，静默：True
+[09:06:17.108] [Server] 重要等级 2，更新公告 True
+[09:06:17.108] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[09:06:17.111] [Loader] 加载器 启动器更新 状态改变：Loading
+[09:06:17.112] [Loader] 加载器 下载更新文件 状态改变：Loading
+[09:06:17.185] [System] DPI：96，系统版本：10.0.22621.0，PCL 位置：D:\Minecraft\launcher\PCL2_snapshot\Plain Craft Launcher 2.exe
+[09:06:17.215] [Download] Update.zip 101#：开始，起始点 0，http://pcl2-server-1253424809.file.myqcloud.com/update/batfix.zip?sign=1675731977-2b757e2c-0-33e52e8effc2ac1429cd745de9bbe9ff
+[09:06:17.266] [Download] Update.zip：文件大小 4133136 B（3.94 M）
+[09:06:17.522] [Launch] 开始微软登录步骤 3
+[09:06:17.522] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[09:06:17.554] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[09:06:17.787] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[09:06:18.300] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[09:06:18.827] [Report] FPS 0, 动画 0, 下载中 1（54.1 K/s）
+[09:06:21.078] [Launch] 开始微软登录步骤 4
+[09:06:21.079] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[09:06:21.341] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[09:06:21.854] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[09:06:22.032] [Control] 按下单选按钮：更多
+[09:06:22.069] [Loader] 加载器 Help Page 状态改变：Loading
+[09:06:22.074] [Help] 正在检查内置帮助文件
+[09:06:22.075] [Control] 切换主要页面：Other, -1
+[09:06:22.085] [System] 获取资源：Help
+[09:06:22.127] [Help] 已解压内置帮助文件：False
+[09:06:22.127] [Help] 已扫描 PCL 文件夹下的帮助文件，目前总计 0 条
+[09:06:22.129] [Help] 已扫描缓存文件夹下的帮助文件，目前总计 33 条
+[09:06:22.178] [Loader] 加载器 Help Page 状态改变：Finished
+[09:06:23.566] [Control] 按下单选按钮：设置
+[09:06:23.626] [Control] 切换主要页面：Setup, -1
+[09:06:23.741] [Download] Update.zip：已完成，剩余文件 0
+[09:06:23.741] [Loader] 加载器 下载更新文件 状态改变：Finished
+[09:06:23.743] [Loader] 加载器 安装更新 状态改变：Loading
+[09:06:23.753] [System] 更新文件解压完成
+[09:06:23.775] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[09:06:23.784] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[09:06:23.810] [Loader] 加载器 安装更新 状态改变：Finished
+[09:06:23.810] [Loader] 加载器 启动器更新 状态改变：Finished
+[09:06:26.729] [Control] 按下单选按钮：下载
+[09:06:26.763] [Loader] 加载器 DlClientList Main 状态改变：Loading
+[09:06:26.764] [Control] 切换主要页面：Download, -1
+[09:06:26.768] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[09:06:26.768] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[09:06:26.888] [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
+[09:06:26.889] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
+[09:06:26.889] [Loader] 加载器 DlFabricList Main 状态改变：Loading
+[09:06:26.891] [Loader] 加载器 DlOptiFineList Official 状态改变：Loading
+[09:06:26.892] [Loader] 加载器 DlLiteLoaderList Official 状态改变：Loading
+[09:06:26.894] [Loader] 加载器 DlFabricList Official 状态改变：Loading
+[09:06:26.894] [Net] 获取网络结果：https://meta.fabricmc.net/v2/versions，最大超时 10000
+[09:06:26.894] [Net] 获取网络结果：http://dl.liteloader.com/versions/versions.json，最大超时 10000
+[09:06:26.894] [Net] 获取客户端网络结果：https://optifine.net/downloads，最大超时 10000
+[09:06:26.897] [Download] 刷新 Forge 推荐版本缓存开始
+[09:06:26.898] [Loader] 加载器 源码获取 409# 状态改变：Loading
+[09:06:26.976] [Download] -1798645995_408 433#：开始，起始点 0，https://bmclapi2.bangbang93.com/forge/promos
+[09:06:27.218] [Download] -1798645995_408：文件大小 44856 B（43.8 K）
+[09:06:27.230] [Download] -1798645995_408：已完成，剩余文件 0
+[09:06:27.231] [Loader] 加载器 源码获取 409# 状态改变：Finished
+[09:06:27.245] [Download] 刷新 Forge 推荐版本缓存成功
+[09:06:27.262] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[09:06:27.351] [Loader] 加载器 DlClientList Main 状态改变：Finished
+[09:06:27.585] 加载线程 Loader Login Ms (16) 发生运行时错误：网络请求失败（https://xsts.auth.xboxlive.com/xsts/authorize，远程服务器返回错误: (408) 请求超时。）
+→ 远程服务器返回错误: (408) 请求超时。
+   在 PCL.ModNet.NetRequestMuity(String Url, String Method, Object Data, String ContentType, Int32 RequestCount, Dictionary`2 Headers)
+   在 PCL.ModLaunch.MsLoginStep4(String XBLToken)
+   在 PCL.ModLaunch.McLoginMsStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog)
+错误类型：System.Net.WebException
+[09:06:27.585] [Loader] 加载器 Loader Login Ms 状态改变：Failed
+[09:06:27.598] 加载线程 登录 (12) 发生运行时错误：网络请求失败（https://xsts.auth.xboxlive.com/xsts/authorize，远程服务器返回错误: (408) 请求超时。）
+→ 远程服务器返回错误: (408) 请求超时。
+   在 PCL.ModLoader.LoaderBase.WaitForExit(Object Input, LoaderBase LoaderToSyncProgress, Boolean IsForceRestart)
+   在 PCL.ModLaunch.McLoginStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 PCL.ModNet.NetRequestMuity(String Url, String Method, Object Data, String ContentType, Int32 RequestCount, Dictionary`2 Headers)
+   在 PCL.ModLaunch.MsLoginStep4(String XBLToken)
+   在 PCL.ModLaunch.McLoginMsStart(LoaderTask`2 Data)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetRequestOnce(String Url, String Method, Object Data, String ContentType, Int32 Timeout, Dictionary`2 Headers, Boolean MakeLog)
+错误类型：System.Net.WebException
+[09:06:27.598] [Loader] 加载器 登录 状态改变：Failed
+[09:06:28.969] [Control] 按下单选按钮：启动
+[09:06:28.970] [Control] 切换主要页面：Launch, -1
+[09:06:30.156] [Control] 按下单选按钮：更多
+[09:06:30.157] [Control] 切换主要页面：Other, -1
+[09:06:31.247] [Control] 按下单选列表项：百宝箱
+[09:06:31.703] [Report] FPS 0, 动画 8, 下载中 0（0 B/s）
+[09:06:32.047] [Report] FPS 0, 动画 10, 下载中 0（0 B/s）
+[09:06:34.082] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Loading
+[09:06:34.082] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Loading
+[09:06:34.082] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Loading
+[09:06:34.083] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/fabric-meta/v2/versions，最大超时 10000
+[09:06:34.083] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/optifine/versionList，最大超时 10000
+[09:06:34.083] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/maven/com/mumfrey/liteloader/versions.json，最大超时 10000
+[09:06:34.151] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Finished
+[09:06:34.157] [Loader] 加载器 DlLiteLoaderList Official 状态改变：Aborted
+[09:06:34.157] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Finished
+[09:06:34.219] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Finished
+[09:06:34.220] [Loader] 加载器 DlOptiFineList Official 状态改变：Aborted
+[09:06:34.220] [Loader] 加载器 DlOptiFineList Main 状态改变：Finished
+[09:06:34.375] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Finished
+[09:06:34.377] [Loader] 加载器 DlFabricList Official 状态改变：Aborted
+[09:06:34.377] [Loader] 加载器 DlFabricList Main 状态改变：Finished
+[09:06:37.428] [Net] 获取客户端网络结果：https://optifine.net/downloads，最大超时 4000
+[09:07:14.276] [Download] 自定义下载文件名：download.apk
+[09:07:14.276] [Download] 自定义下载文件目标：D:\Minecraft\launcher\PCL2_snapshot\PCL\MyDownload\
+[09:07:14.277] [Loader] 加载器 自定义下载 (926)  状态改变：Loading
+[09:07:14.279] [Loader] 加载器 自定义下载文件：download.apk  状态改变：Loading
+[09:07:14.284] [Download] download.apk 934#：开始，起始点 0，https://7wwrv7-my.sharepoint.comhttps://7wwrv7-my.sharepoint.com/personal/minebbs_7wwrv7_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=2852fa00-d8e5-4db9-8c1b-b6a66596c3cc&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvN3d3cnY3LW15LnNoYXJlcG9pbnQuY29tQGY1NjE2ZTlmLTczNmItNDM2Mi1iODVkLTgwNTQ1Zjg5NDVkZCIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE2NzU3MzE5MTYiLCJleHAiOiIxNjc1NzM1NTE2IiwiZW5kcG9pbnR1cmwiOiJqa3crQTJKSEREYk1UWWVDYVBkZTN5N05WNXdqSUIyZnlQRXAxR1U0M1drPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTYwIiwiaXNsb29wYmFjayI6IlRydWUiLCJjaWQiOiJOakUxWkRVek5qSXRaRGRtWXkwME4yVTNMV0UyWkRFdE9UQTJaRGsyTjJSbVpXRXoiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiWW1RME9HSXlZamt0TnpWa1ppMDBZekE0TFdKak1XRXRaVGswTnpZeU5qSmtOV0k1IiwiYXBwX2Rpc3BsYXluYW1lIjoi56We5aWH55qEWVlUIiwiZ2l2ZW5fbmFtZSI6IkJCUyIsImZhbWlseV9uYW1lIjoiTWluZSIsInNpZ25pbl9zdGF0ZSI6IltcImttc2lcIl0iLCJhcHBpZCI6IjRiYzc3ZmRjLTExODMtNDc0Zi1hMzEyLTM2MjZkNjEzZjJmOSIsInRpZCI6ImY1NjE2ZTlmLTczNmItNDM2Mi1iODVkLTgwNTQ1Zjg5NDVkZCIsInVwbiI6Im1pbmViYnNAN3d3cnY3Lm9ubWljcm9zb2Z0LmNvbSIsInB1aWQiOiIxMDAzMjAwMUVCRDY5RUIzIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDFlYmQ2OWViM0BsaXZlLmNvbSIsInNjcCI6ImFsbGZpbGVzLndyaXRlIiwidHQiOiIyIiwidXNlUGVyc2lzdGVudENvb2tpZSI6bnVsbCwiaXBhZGRyIjoiMjAuMTkwLjE0NC4xNzEifQ.cFU5dmp1VkdBV2t3K2hDaXF1NnVIWTJBT3ZBWUFqTFF0b3prU1VtQ1AyTT0&ApiVersion=2.0
+[09:07:14.832] [Control] 按下按钮：开始下载
+[09:07:14.833] [Download] 自定义下载文件名：download.apk
+[09:07:14.833] [Download] 自定义下载文件目标：D:\Minecraft\launcher\PCL2_snapshot\PCL\MyDownload\
+[09:07:14.833] [Loader] 加载器 自定义下载 (939)  状态改变：Loading
+[09:07:14.833] [Loader] 加载器 自定义下载文件：download.apk  状态改变：Loading
+[09:07:16.131] [Control] 按下附加按钮：下载管理
+[09:07:16.140] [Control] 切换主要页面：DownloadManager, 0
+[09:07:16.356] [Download] download.apk 934#：出错，无法连接到远程服务器
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 由于目标计算机积极拒绝，无法连接。 127.0.0.2:443
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.Sockets.SocketException
+[09:07:16.416] [Download] download.apk 976#：开始，起始点 0，https://7wwrv7-my.sharepoint.comhttps://7wwrv7-my.sharepoint.com/personal/minebbs_7wwrv7_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=2852fa00-d8e5-4db9-8c1b-b6a66596c3cc&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvN3d3cnY3LW15LnNoYXJlcG9pbnQuY29tQGY1NjE2ZTlmLTczNmItNDM2Mi1iODVkLTgwNTQ1Zjg5NDVkZCIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE2NzU3MzE5MTYiLCJleHAiOiIxNjc1NzM1NTE2IiwiZW5kcG9pbnR1cmwiOiJqa3crQTJKSEREYk1UWWVDYVBkZTN5N05WNXdqSUIyZnlQRXAxR1U0M1drPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTYwIiwiaXNsb29wYmFjayI6IlRydWUiLCJjaWQiOiJOakUxWkRVek5qSXRaRGRtWXkwME4yVTNMV0UyWkRFdE9UQTJaRGsyTjJSbVpXRXoiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiWW1RME9HSXlZamt0TnpWa1ppMDBZekE0TFdKak1XRXRaVGswTnpZeU5qSmtOV0k1IiwiYXBwX2Rpc3BsYXluYW1lIjoi56We5aWH55qEWVlUIiwiZ2l2ZW5fbmFtZSI6IkJCUyIsImZhbWlseV9uYW1lIjoiTWluZSIsInNpZ25pbl9zdGF0ZSI6IltcImttc2lcIl0iLCJhcHBpZCI6IjRiYzc3ZmRjLTExODMtNDc0Zi1hMzEyLTM2MjZkNjEzZjJmOSIsInRpZCI6ImY1NjE2ZTlmLTczNmItNDM2Mi1iODVkLTgwNTQ1Zjg5NDVkZCIsInVwbiI6Im1pbmViYnNAN3d3cnY3Lm9ubWljcm9zb2Z0LmNvbSIsInB1aWQiOiIxMDAzMjAwMUVCRDY5RUIzIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDFlYmQ2OWViM0BsaXZlLmNvbSIsInNjcCI6ImFsbGZpbGVzLndyaXRlIiwidHQiOiIyIiwidXNlUGVyc2lzdGVudENvb2tpZSI6bnVsbCwiaXBhZGRyIjoiMjAuMTkwLjE0NC4xNzEifQ.cFU5dmp1VkdBV2t3K2hDaXF1NnVIWTJBT3ZBWUFqTFF0b3prU1VtQ1AyTT0&ApiVersion=2.0
+[09:07:18.089] [Control] 按下图标按钮：BtnCancel
+[09:07:18.091] [Loader] 加载器 自定义下载 (926)  状态改变：Aborted
+[09:07:18.091] [Loader] 加载器 自定义下载文件：download.apk  状态改变：Aborted
+[09:07:18.091] [Download] 自定义下载文件：download.apk  已取消！
+[09:07:18.129] [UI] 弹出提示：自定义下载 (926) 已取消！
+[09:07:18.458] [Download] download.apk 976#：出错，无法连接到远程服务器
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 由于目标计算机积极拒绝，无法连接。 127.0.0.2:443
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.Sockets.SocketException
+[09:07:18.535] [Download] download.apk 993#：开始，起始点 0，https://7wwrv7-my.sharepoint.comhttps://7wwrv7-my.sharepoint.com/personal/minebbs_7wwrv7_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=2852fa00-d8e5-4db9-8c1b-b6a66596c3cc&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvN3d3cnY3LW15LnNoYXJlcG9pbnQuY29tQGY1NjE2ZTlmLTczNmItNDM2Mi1iODVkLTgwNTQ1Zjg5NDVkZCIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE2NzU3MzE5MTYiLCJleHAiOiIxNjc1NzM1NTE2IiwiZW5kcG9pbnR1cmwiOiJqa3crQTJKSEREYk1UWWVDYVBkZTN5N05WNXdqSUIyZnlQRXAxR1U0M1drPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTYwIiwiaXNsb29wYmFjayI6IlRydWUiLCJjaWQiOiJOakUxWkRVek5qSXRaRGRtWXkwME4yVTNMV0UyWkRFdE9UQTJaRGsyTjJSbVpXRXoiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiWW1RME9HSXlZamt0TnpWa1ppMDBZekE0TFdKak1XRXRaVGswTnpZeU5qSmtOV0k1IiwiYXBwX2Rpc3BsYXluYW1lIjoi56We5aWH55qEWVlUIiwiZ2l2ZW5fbmFtZSI6IkJCUyIsImZhbWlseV9uYW1lIjoiTWluZSIsInNpZ25pbl9zdGF0ZSI6IltcImttc2lcIl0iLCJhcHBpZCI6IjRiYzc3ZmRjLTExODMtNDc0Zi1hMzEyLTM2MjZkNjEzZjJmOSIsInRpZCI6ImY1NjE2ZTlmLTczNmItNDM2Mi1iODVkLTgwNTQ1Zjg5NDVkZCIsInVwbiI6Im1pbmViYnNAN3d3cnY3Lm9ubWljcm9zb2Z0LmNvbSIsInB1aWQiOiIxMDAzMjAwMUVCRDY5RUIzIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDFlYmQ2OWViM0BsaXZlLmNvbSIsInNjcCI6ImFsbGZpbGVzLndyaXRlIiwidHQiOiIyIiwidXNlUGVyc2lzdGVudENvb2tpZSI6bnVsbCwiaXBhZGRyIjoiMjAuMTkwLjE0NC4xNzEifQ.cFU5dmp1VkdBV2t3K2hDaXF1NnVIWTJBT3ZBWUFqTFF0b3prU1VtQ1AyTT0&ApiVersion=2.0
+[09:07:20.589] [Download] download.apk 993#：出错，无法连接到远程服务器
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 由于目标计算机积极拒绝，无法连接。 127.0.0.2:443
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.Sockets.SocketException
+[09:07:20.668] [Download] download.apk 994#：开始，起始点 0，https://7wwrv7-my.sharepoint.comhttps://7wwrv7-my.sharepoint.com/personal/minebbs_7wwrv7_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=2852fa00-d8e5-4db9-8c1b-b6a66596c3cc&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvN3d3cnY3LW15LnNoYXJlcG9pbnQuY29tQGY1NjE2ZTlmLTczNmItNDM2Mi1iODVkLTgwNTQ1Zjg5NDVkZCIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE2NzU3MzE5MTYiLCJleHAiOiIxNjc1NzM1NTE2IiwiZW5kcG9pbnR1cmwiOiJqa3crQTJKSEREYk1UWWVDYVBkZTN5N05WNXdqSUIyZnlQRXAxR1U0M1drPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTYwIiwiaXNsb29wYmFjayI6IlRydWUiLCJjaWQiOiJOakUxWkRVek5qSXRaRGRtWXkwME4yVTNMV0UyWkRFdE9UQTJaRGsyTjJSbVpXRXoiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiWW1RME9HSXlZamt0TnpWa1ppMDBZekE0TFdKak1XRXRaVGswTnpZeU5qSmtOV0k1IiwiYXBwX2Rpc3BsYXluYW1lIjoi56We5aWH55qEWVlUIiwiZ2l2ZW5fbmFtZSI6IkJCUyIsImZhbWlseV9uYW1lIjoiTWluZSIsInNpZ25pbl9zdGF0ZSI6IltcImttc2lcIl0iLCJhcHBpZCI6IjRiYzc3ZmRjLTExODMtNDc0Zi1hMzEyLTM2MjZkNjEzZjJmOSIsInRpZCI6ImY1NjE2ZTlmLTczNmItNDM2Mi1iODVkLTgwNTQ1Zjg5NDVkZCIsInVwbiI6Im1pbmViYnNAN3d3cnY3Lm9ubWljcm9zb2Z0LmNvbSIsInB1aWQiOiIxMDAzMjAwMUVCRDY5RUIzIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDFlYmQ2OWViM0BsaXZlLmNvbSIsInNjcCI6ImFsbGZpbGVzLndyaXRlIiwidHQiOiIyIiwidXNlUGVyc2lzdGVudENvb2tpZSI6bnVsbCwiaXBhZGRyIjoiMjAuMTkwLjE0NC4xNzEifQ.cFU5dmp1VkdBV2t3K2hDaXF1NnVIWTJBT3ZBWUFqTFF0b3prU1VtQ1AyTT0&ApiVersion=2.0
+[09:07:22.702] [Download] download.apk 994#：出错，无法连接到远程服务器
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 由于目标计算机积极拒绝，无法连接。 127.0.0.2:443
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.Sockets.SocketException
+[09:07:22.811] [Download] download.apk 995#：开始，起始点 0，https://7wwrv7-my.sharepoint.comhttps://7wwrv7-my.sharepoint.com/personal/minebbs_7wwrv7_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=2852fa00-d8e5-4db9-8c1b-b6a66596c3cc&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvN3d3cnY3LW15LnNoYXJlcG9pbnQuY29tQGY1NjE2ZTlmLTczNmItNDM2Mi1iODVkLTgwNTQ1Zjg5NDVkZCIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE2NzU3MzE5MTYiLCJleHAiOiIxNjc1NzM1NTE2IiwiZW5kcG9pbnR1cmwiOiJqa3crQTJKSEREYk1UWWVDYVBkZTN5N05WNXdqSUIyZnlQRXAxR1U0M1drPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTYwIiwiaXNsb29wYmFjayI6IlRydWUiLCJjaWQiOiJOakUxWkRVek5qSXRaRGRtWXkwME4yVTNMV0UyWkRFdE9UQTJaRGsyTjJSbVpXRXoiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiWW1RME9HSXlZamt0TnpWa1ppMDBZekE0TFdKak1XRXRaVGswTnpZeU5qSmtOV0k1IiwiYXBwX2Rpc3BsYXluYW1lIjoi56We5aWH55qEWVlUIiwiZ2l2ZW5fbmFtZSI6IkJCUyIsImZhbWlseV9uYW1lIjoiTWluZSIsInNpZ25pbl9zdGF0ZSI6IltcImttc2lcIl0iLCJhcHBpZCI6IjRiYzc3ZmRjLTExODMtNDc0Zi1hMzEyLTM2MjZkNjEzZjJmOSIsInRpZCI6ImY1NjE2ZTlmLTczNmItNDM2Mi1iODVkLTgwNTQ1Zjg5NDVkZCIsInVwbiI6Im1pbmViYnNAN3d3cnY3Lm9ubWljcm9zb2Z0LmNvbSIsInB1aWQiOiIxMDAzMjAwMUVCRDY5RUIzIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDFlYmQ2OWViM0BsaXZlLmNvbSIsInNjcCI6ImFsbGZpbGVzLndyaXRlIiwidHQiOiIyIiwidXNlUGVyc2lzdGVudENvb2tpZSI6bnVsbCwiaXBhZGRyIjoiMjAuMTkwLjE0NC4xNzEifQ.cFU5dmp1VkdBV2t3K2hDaXF1NnVIWTJBT3ZBWUFqTFF0b3prU1VtQ1AyTT0&ApiVersion=2.0
+[09:07:23.897] [Control] 按下图标按钮：BtnTitleInner
+[09:07:23.897] [Control] 切换主要页面：Other, -1
+[09:07:24.847] [Download] download.apk 995#：出错，无法连接到远程服务器
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 由于目标计算机积极拒绝，无法连接。 127.0.0.2:443
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.Sockets.SocketException
+[09:07:24.924] [Download] download.apk 1025#：开始，起始点 0，https://7wwrv7-my.sharepoint.comhttps://7wwrv7-my.sharepoint.com/personal/minebbs_7wwrv7_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=2852fa00-d8e5-4db9-8c1b-b6a66596c3cc&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvN3d3cnY3LW15LnNoYXJlcG9pbnQuY29tQGY1NjE2ZTlmLTczNmItNDM2Mi1iODVkLTgwNTQ1Zjg5NDVkZCIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE2NzU3MzE5MTYiLCJleHAiOiIxNjc1NzM1NTE2IiwiZW5kcG9pbnR1cmwiOiJqa3crQTJKSEREYk1UWWVDYVBkZTN5N05WNXdqSUIyZnlQRXAxR1U0M1drPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTYwIiwiaXNsb29wYmFjayI6IlRydWUiLCJjaWQiOiJOakUxWkRVek5qSXRaRGRtWXkwME4yVTNMV0UyWkRFdE9UQTJaRGsyTjJSbVpXRXoiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiWW1RME9HSXlZamt0TnpWa1ppMDBZekE0TFdKak1XRXRaVGswTnpZeU5qSmtOV0k1IiwiYXBwX2Rpc3BsYXluYW1lIjoi56We5aWH55qEWVlUIiwiZ2l2ZW5fbmFtZSI6IkJCUyIsImZhbWlseV9uYW1lIjoiTWluZSIsInNpZ25pbl9zdGF0ZSI6IltcImttc2lcIl0iLCJhcHBpZCI6IjRiYzc3ZmRjLTExODMtNDc0Zi1hMzEyLTM2MjZkNjEzZjJmOSIsInRpZCI6ImY1NjE2ZTlmLTczNmItNDM2Mi1iODVkLTgwNTQ1Zjg5NDVkZCIsInVwbiI6Im1pbmViYnNAN3d3cnY3Lm9ubWljcm9zb2Z0LmNvbSIsInB1aWQiOiIxMDAzMjAwMUVCRDY5RUIzIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDFlYmQ2OWViM0BsaXZlLmNvbSIsInNjcCI6ImFsbGZpbGVzLndyaXRlIiwidHQiOiIyIiwidXNlUGVyc2lzdGVudENvb2tpZSI6bnVsbCwiaXBhZGRyIjoiMjAuMTkwLjE0NC4xNzEifQ.cFU5dmp1VkdBV2t3K2hDaXF1NnVIWTJBT3ZBWUFqTFF0b3prU1VtQ1AyTT0&ApiVersion=2.0
+[09:07:25.400] [Control] 按下单选按钮：启动
+[09:07:25.401] [Control] 切换主要页面：Launch, -1
+[09:07:26.263] [Control] 按下附加按钮：下载管理
+[09:07:26.263] [Control] 切换主要页面：DownloadManager, 0
+[09:07:26.951] [Download] download.apk 1025#：出错，无法连接到远程服务器
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 由于目标计算机积极拒绝，无法连接。 127.0.0.2:443
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.Sockets.SocketException
+[09:07:27.060] [Download] download.apk 1081#：开始，起始点 0，https://7wwrv7-my.sharepoint.comhttps://7wwrv7-my.sharepoint.com/personal/minebbs_7wwrv7_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=2852fa00-d8e5-4db9-8c1b-b6a66596c3cc&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvN3d3cnY3LW15LnNoYXJlcG9pbnQuY29tQGY1NjE2ZTlmLTczNmItNDM2Mi1iODVkLTgwNTQ1Zjg5NDVkZCIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE2NzU3MzE5MTYiLCJleHAiOiIxNjc1NzM1NTE2IiwiZW5kcG9pbnR1cmwiOiJqa3crQTJKSEREYk1UWWVDYVBkZTN5N05WNXdqSUIyZnlQRXAxR1U0M1drPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTYwIiwiaXNsb29wYmFjayI6IlRydWUiLCJjaWQiOiJOakUxWkRVek5qSXRaRGRtWXkwME4yVTNMV0UyWkRFdE9UQTJaRGsyTjJSbVpXRXoiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiWW1RME9HSXlZamt0TnpWa1ppMDBZekE0TFdKak1XRXRaVGswTnpZeU5qSmtOV0k1IiwiYXBwX2Rpc3BsYXluYW1lIjoi56We5aWH55qEWVlUIiwiZ2l2ZW5fbmFtZSI6IkJCUyIsImZhbWlseV9uYW1lIjoiTWluZSIsInNpZ25pbl9zdGF0ZSI6IltcImttc2lcIl0iLCJhcHBpZCI6IjRiYzc3ZmRjLTExODMtNDc0Zi1hMzEyLTM2MjZkNjEzZjJmOSIsInRpZCI6ImY1NjE2ZTlmLTczNmItNDM2Mi1iODVkLTgwNTQ1Zjg5NDVkZCIsInVwbiI6Im1pbmViYnNAN3d3cnY3Lm9ubWljcm9zb2Z0LmNvbSIsInB1aWQiOiIxMDAzMjAwMUVCRDY5RUIzIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDFlYmQ2OWViM0BsaXZlLmNvbSIsInNjcCI6ImFsbGZpbGVzLndyaXRlIiwidHQiOiIyIiwidXNlUGVyc2lzdGVudENvb2tpZSI6bnVsbCwiaXBhZGRyIjoiMjAuMTkwLjE0NC4xNzEifQ.cFU5dmp1VkdBV2t3K2hDaXF1NnVIWTJBT3ZBWUFqTFF0b3prU1VtQ1AyTT0&ApiVersion=2.0
+[09:07:29.109] [Download] download.apk 1081#：出错，无法连接到远程服务器
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 由于目标计算机积极拒绝，无法连接。 127.0.0.2:443
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.Sockets.SocketException
+[09:07:29.186] [Download] download.apk 1086#：开始，起始点 0，https://7wwrv7-my.sharepoint.comhttps://7wwrv7-my.sharepoint.com/personal/minebbs_7wwrv7_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=2852fa00-d8e5-4db9-8c1b-b6a66596c3cc&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvN3d3cnY3LW15LnNoYXJlcG9pbnQuY29tQGY1NjE2ZTlmLTczNmItNDM2Mi1iODVkLTgwNTQ1Zjg5NDVkZCIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE2NzU3MzE5MTYiLCJleHAiOiIxNjc1NzM1NTE2IiwiZW5kcG9pbnR1cmwiOiJqa3crQTJKSEREYk1UWWVDYVBkZTN5N05WNXdqSUIyZnlQRXAxR1U0M1drPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTYwIiwiaXNsb29wYmFjayI6IlRydWUiLCJjaWQiOiJOakUxWkRVek5qSXRaRGRtWXkwME4yVTNMV0UyWkRFdE9UQTJaRGsyTjJSbVpXRXoiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiWW1RME9HSXlZamt0TnpWa1ppMDBZekE0TFdKak1XRXRaVGswTnpZeU5qSmtOV0k1IiwiYXBwX2Rpc3BsYXluYW1lIjoi56We5aWH55qEWVlUIiwiZ2l2ZW5fbmFtZSI6IkJCUyIsImZhbWlseV9uYW1lIjoiTWluZSIsInNpZ25pbl9zdGF0ZSI6IltcImttc2lcIl0iLCJhcHBpZCI6IjRiYzc3ZmRjLTExODMtNDc0Zi1hMzEyLTM2MjZkNjEzZjJmOSIsInRpZCI6ImY1NjE2ZTlmLTczNmItNDM2Mi1iODVkLTgwNTQ1Zjg5NDVkZCIsInVwbiI6Im1pbmViYnNAN3d3cnY3Lm9ubWljcm9zb2Z0LmNvbSIsInB1aWQiOiIxMDAzMjAwMUVCRDY5RUIzIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDFlYmQ2OWViM0BsaXZlLmNvbSIsInNjcCI6ImFsbGZpbGVzLndyaXRlIiwidHQiOiIyIiwidXNlUGVyc2lzdGVudENvb2tpZSI6bnVsbCwiaXBhZGRyIjoiMjAuMTkwLjE0NC4xNzEifQ.cFU5dmp1VkdBV2t3K2hDaXF1NnVIWTJBT3ZBWUFqTFF0b3prU1VtQ1AyTT0&ApiVersion=2.0
+[09:07:30.629] [Control] 按下图标按钮：BtnCancel
+[09:07:30.629] [Loader] 加载器 自定义下载 (939)  状态改变：Aborted
+[09:07:30.629] [Loader] 加载器 自定义下载文件：download.apk  状态改变：Aborted
+[09:07:30.629] [Download] 自定义下载文件：download.apk  已取消！
+[09:07:30.665] [UI] 弹出提示：自定义下载 (939) 已取消！
+[09:07:30.883] [Control] 切换主要页面：Launch, -1
+[09:07:31.224] [Download] download.apk 1086#：出错，无法连接到远程服务器
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 由于目标计算机积极拒绝，无法连接。 127.0.0.2:443
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.Sockets.SocketException
+[09:07:32.300] [Control] 按下单选按钮：联机
+[09:07:32.324] [Control] 普通弹窗：联机功能已暂时关闭
+由于联机提供商要求新联机强制付费，且高度商业化，PCL 将暂时关闭联机功能，不再使用该联机模块。
+PCL、HMCL、BakaXL 将合作开发新的跨启动器联机功能，在开发结束后将同步开放，请各位多多理解。
+[09:07:33.696] [Control] 按下按钮：确定
+[09:07:33.697] [Control] 普通弹框返回：2
+[09:07:35.146] [Control] 按下图标按钮：BtnTitleClose
+[09:07:35.149] [System] 收到关闭指令
+[09:07:35.391] [System] 更新程序启动，参数：--update 28032 "Plain Craft Launcher 2.exe" "Plain Craft Launcher 2.exe" False
+[09:07:35.459] [System] 程序已退出，返回值：Success
